@@ -1,0 +1,3 @@
+ID,status,availability
+dictvalue1,status : online ,availability : up
+dictvalue2,status : offline,availability : shutdown
